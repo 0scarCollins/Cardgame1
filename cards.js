@@ -25,7 +25,7 @@ function shuffle(deck) {
         deck[random2] = temp;
     }
     console.log(deck);
-    return deck;
+    return deck; //commit
 }
 function showDeck(deck) {
     //debugger;
